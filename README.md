@@ -224,5 +224,53 @@ Learned advanced JOIN operations, self joins, employee-manager relationships, pr
 
 Learned how to work with SQL date and time functions, perform date calculations, format dates, and filter records using real-time date operations. 💡
 
+# Week 2 Day 1 – SQL Learning Journey 🚀
+
+## Topics Practiced
+
+* NULL Values
+* IS NULL
+* IS NOT NULL
+* IFNULL()
+* COALESCE()
+* NULLIF()
+
+## SQL Tasks Completed
+
+* Finding NULL values
+* Replacing NULL values
+* Working with default values
+* Handling missing salary and bonus
+* Using NULL functions in real-time examples
+
+## Key Concepts Covered
+
+### NULL Checking
+
+* IS NULL
+* IS NOT NULL
+
+### IFNULL()
+
+* Replacing NULL with custom values
+
+### COALESCE()
+
+* Returning first non-null value
+
+### NULLIF()
+
+* Comparing values and returning NULL
+
+### Real-Time Scenarios
+
+* Employee earnings calculation
+* Product stock checking
+* Order payment calculation
+* Safe division handling
+
+## Learning Outcome
+
+Learned how to handle NULL values in SQL using different functions like IFNULL(), COALESCE(), and NULLIF() for better data management and calculations. 💡
 
 
