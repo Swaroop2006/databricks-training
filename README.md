@@ -164,4 +164,65 @@ Learned advanced SQL concepts like joins, subqueries, sorting, grouping, and sal
 
 Learned advanced JOIN operations, self joins, employee-manager relationships, project mapping, and department analysis using SQL queries with hands-on practice. 💡
 
+# Week 1 Day 4 – SQL Learning Journey 🚀
+
+## Topics Practiced
+
+* Date Functions
+* Time Functions
+* Timestamp Functions
+* Date Formatting
+* Date Arithmetic
+* Filtering by Dates
+
+## SQL Tasks Completed
+
+* Current date and time queries
+* Extracting year, month, and day
+* Finding weekdays and weekends
+* Adding and subtracting dates
+* Calculating delivery days
+* Formatting dates and timestamps
+* Filtering records using month and date conditions
+
+## Key Concepts Covered
+
+### Date & Time Functions
+
+* CURDATE()
+* CURTIME()
+* NOW()
+* CURRENT_TIMESTAMP()
+
+### Date Extraction
+
+* YEAR()
+* MONTH()
+* DAY()
+* EXTRACT()
+
+### Date Arithmetic
+
+* DATE_ADD()
+* DATE_SUB()
+* DATEDIFF()
+* TIMESTAMPDIFF()
+
+### Formatting Functions
+
+* DATE_FORMAT()
+* STR_TO_DATE()
+
+### Filtering with Dates
+
+* Finding weekend orders
+* Finding weekday orders
+* Filtering by month
+* Financial year calculations
+
+## Learning Outcome
+
+Learned how to work with SQL date and time functions, perform date calculations, format dates, and filter records using real-time date operations. 💡
+
+
 
