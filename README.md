@@ -273,4 +273,56 @@ Learned how to work with SQL date and time functions, perform date calculations,
 
 Learned how to handle NULL values in SQL using different functions like IFNULL(), COALESCE(), and NULLIF() for better data management and calculations. 💡
 
+# Week 2 Day 2 – SQL Learning Journey 🚀
+
+## Topics Practiced
+
+* Numeric Functions
+* Rounding Functions
+* Mathematical Operations
+* Random Functions
+* Formatting Numbers
+
+## SQL Tasks Completed
+
+* Finding absolute values
+* Rounding salary values
+* Using CEIL and FLOOR
+* Truncating decimal values
+* Finding remainder using MOD
+* Power and square root calculations
+* Formatting salary values
+* Finding maximum and minimum values
+
+## Key Concepts Covered
+
+### Numeric Functions
+
+* ABS()
+* ROUND()
+* CEIL()
+* FLOOR()
+* TRUNCATE()
+
+### Mathematical Functions
+
+* MOD()
+* POWER()
+* POW()
+* SQRT()
+
+### Utility Functions
+
+* SIGN()
+* RAND()
+* FORMAT()
+
+### Comparison Functions
+
+* GREATEST()
+* LEAST()
+
+## Learning Outcome
+
+Learned how to use SQL numeric and mathematical functions for calculations, rounding values, formatting numbers, and performing real-time salary analysis. 💡
 
