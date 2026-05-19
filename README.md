@@ -1,4 +1,4 @@
-# Day 1 – SQL Learning Journey 🚀
+# Week 1 Day 1 – SQL Learning Journey 🚀
 
 ## Topics Practiced
 
