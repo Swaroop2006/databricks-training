@@ -364,3 +364,58 @@ Learned how to use SQL numeric and mathematical functions for calculations, roun
 
 ## Learning Outcome
 Learned how to use REGEXP in SQL for pattern matching, validation checks, and searching text using regular expressions. 💡
+
+# Week 2 Day 4 – SQL String Functions & REGEXP Practice 🚀
+
+## Topics Practiced
+- SQL String Functions
+- REGEXP in SQL
+- Pattern Matching
+- Email Handling
+- Phone Number Validation
+- Text Extraction Functions
+
+## SQL Tasks Completed
+- Finding string length
+- Converting text to uppercase and lowercase
+- Extracting left and right characters
+- Extracting username from email
+- Extracting domain from email
+- Replacing text values
+- Finding symbol positions using LOCATE
+- Reversing strings
+- Removing spaces using TRIM
+- Combining strings using CONCAT
+- REGEXP pattern matching
+- Extracting digits and alphabets from mixed text
+
+## Key Concepts Covered
+
+### String Functions
+- `LENGTH()`
+- `UPPER()`
+- `LOWER()`
+- `LEFT()`
+- `RIGHT()`
+- `REPLACE()`
+- `LOCATE()`
+- `REVERSE()`
+- `TRIM()`
+- `CONCAT()`
+- `CHAR_LENGTH()`
+
+### REGEXP Concepts
+- Pattern matching
+- Finding starting characters
+- Finding ending characters
+- Extracting numbers
+- Extracting alphabets
+
+### Validation Queries
+- Email validation
+- Phone number validation
+- Checking `.com` emails
+- Finding Indian mobile numbers
+
+## Learning Outcome
+Learned how to use SQL String Functions and REGEXP for text processing, validation, pattern matching, and data cleaning operations in real-world SQL scenarios. 💡
