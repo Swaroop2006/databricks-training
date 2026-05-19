@@ -57,3 +57,55 @@ Successfully practiced SQL queries covering:
 ## Learning Outcome
 
 Gained hands-on practice with SQL fundamentals, query writing, data filtering, grouping, and aggregate operations. 💡
+
+# Week 1 Day 2 – SQL Learning Journey 🚀
+
+## Topics Practiced
+
+* ORDER BY
+* JOIN Queries
+* Subqueries
+* Aggregate Functions
+* GROUP BY and HAVING
+
+## SQL Tasks Completed
+
+* Employee and department queries
+* Salary analysis
+* Highest and second highest salary queries
+* Department-wise employee analysis
+* Project-related queries
+* Sorting records
+
+## Key Concepts Covered
+
+### JOIN Operations
+
+* INNER JOIN
+* LEFT JOIN
+* Combining multiple tables
+
+### Aggregate Functions
+
+* COUNT()
+* AVG()
+* SUM()
+* MAX()
+* MIN()
+
+### Sorting and Filtering
+
+* ORDER BY
+* GROUP BY
+* HAVING Clause
+
+### Subqueries
+
+* Nested queries
+* Salary comparison queries
+* Department-based queries
+
+## Learning Outcome
+
+Learned advanced SQL concepts like joins, subqueries, sorting, grouping, and salary analysis with hands-on practice. 💡
+
