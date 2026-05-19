@@ -326,3 +326,41 @@ Learned how to handle NULL values in SQL using different functions like IFNULL()
 
 Learned how to use SQL numeric and mathematical functions for calculations, rounding values, formatting numbers, and performing real-time salary analysis. 💡
 
+# Week 2 Day 3 – SQL Learning Journey 🚀
+
+## Topics Practiced
+- Regular Expressions in SQL
+- Pattern Matching
+- Email Validation
+- Phone Number Validation
+- Searching Numbers and Alphabets
+
+## SQL Tasks Completed
+- Checking strings with digits
+- Checking strings with alphabets
+- Finding strings starting with numbers
+- Finding strings ending with numbers
+- Using REGEXP with patterns
+- Validating email formats
+- Validating phone numbers
+
+## Key Concepts Covered
+
+### REGEXP Basics
+- REGEXP operator
+- Pattern matching in SQL
+- Searching text values
+
+### Special Symbols Used
+- `^` → Starts with
+- `$` → Ends with
+- `+` → One or more matches
+- `{ }` → Exact number of characters
+
+### Validation Queries
+- Email validation
+- Mobile number validation
+- Digit and alphabet checking
+
+## Learning Outcome
+Learned how to use REGEXP in SQL for pattern matching, validation checks, and searching text using regular expressions. 💡
