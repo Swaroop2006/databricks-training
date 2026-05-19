@@ -419,3 +419,55 @@ Learned how to use REGEXP in SQL for pattern matching, validation checks, and se
 
 ## Learning Outcome
 Learned how to use SQL String Functions and REGEXP for text processing, validation, pattern matching, and data cleaning operations in real-world SQL scenarios. 💡
+
+# Week 2 Day 5 – SQL Learning Journey 🚀
+
+## Topics Practiced
+- SQL String Functions
+- Text Formatting Functions
+- String Searching Functions
+- Padding Functions
+- String Manipulation Techniques
+
+## SQL Tasks Completed
+- Finding string length
+- Converting text to uppercase and lowercase
+- Removing extra spaces using TRIM
+- Combining strings using CONCAT
+- Extracting substrings from text
+- Finding positions of characters
+- Replacing characters in text
+- Reversing strings
+- Padding text with symbols
+- Repeating characters and adding spaces
+
+## Key Concepts Covered
+
+### String Functions Used
+- `LENGTH()`
+- `CHAR_LENGTH()`
+- `UPPER()`
+- `LOWER()`
+- `TRIM()`
+- `LTRIM()`
+- `RTRIM()`
+- `CONCAT()`
+- `CONCAT_WS()`
+- `SUBSTRING()`
+- `SUBSTR()`
+- `MID()`
+- `LEFT()`
+- `RIGHT()`
+- `INSTR()`
+- `LOCATE()`
+- `REPLACE()`
+- `REVERSE()`
+- `FIELD()`
+- `FIND_IN_SET()`
+- `LPAD()`
+- `RPAD()`
+- `REPEAT()`
+- `SPACE()`
+
+## Learning Outcome
+Learned how to use SQL string functions for text formatting, searching, extraction, replacement, padding, and manipulation of string data effectively. 💡
