@@ -109,3 +109,59 @@ Gained hands-on practice with SQL fundamentals, query writing, data filtering, g
 
 Learned advanced SQL concepts like joins, subqueries, sorting, grouping, and salary analysis with hands-on practice. 💡
 
+# Week 1 Day 3 – SQL Learning Journey 🚀
+
+## Topics Practiced
+
+* SELF JOIN
+* INNER JOIN
+* LEFT JOIN
+* Multiple Table Joins
+* GROUP BY
+* COUNT Function
+
+## SQL Tasks Completed
+
+* Employee and manager queries
+* Employee and department mapping
+* Employee and project analysis
+* Department-wise employee count
+* Queries with missing data handling
+* Multiple table join operations
+
+## Key Concepts Covered
+
+### SELF JOIN
+
+* Employee and manager relationships
+* Employees reporting to managers
+* Including employees without managers
+
+### JOIN Operations
+
+* INNER JOIN
+* LEFT JOIN
+* Joining Employees, Departments, and Projects tables
+
+### Project Analysis
+
+* Employees with projects
+* Employees without projects
+* Project and employee mapping
+
+### Department Analysis
+
+* Employees by department
+* Departments with employee count
+* Handling missing department data
+
+### Aggregate Functions
+
+* COUNT()
+* GROUP BY
+
+## Learning Outcome
+
+Learned advanced JOIN operations, self joins, employee-manager relationships, project mapping, and department analysis using SQL queries with hands-on practice. 💡
+
+
