@@ -257,7 +257,7 @@ You can add screenshots of:
 
 ## 👨‍💻 Author
 
-**Arjun**
+**Swaroop**
 
 B.Tech – Artificial Intelligence & Data Science
 
